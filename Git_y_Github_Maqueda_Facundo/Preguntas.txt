@@ -1,0 +1,3 @@
+a. Fue desarrollado por Linus Torvalds y el equipo de desarrolladores de Linux ya que BitKeeper dejó de ser gratuito.
+b. El 4 de junio de 2018, Microsoft compró GitHub por la cantidad de 7500 millones de dólares.​ Al inicio, el cambio de propietario generó preocupaciones y la salida de algunos proyectos de este sitio;​ sin embargo, no fueron representativos. GitHub continúa siendo la plataforma más importante de colaboración para proyectos de código.
+c. Se puede editar el código desde el sitio web de Github. Asimismo hay una aplicación descargable. 
