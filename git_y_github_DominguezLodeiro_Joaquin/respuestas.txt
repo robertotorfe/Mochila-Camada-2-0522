@@ -1,0 +1,10 @@
+a. Git fue creado en 2005 por Linus Torvalds, el famoso creador del kernel del sistema operativo Linux. Previo a su desarrollo, el proyecto Kernel de Linux utilizaba una herramienta de la compañía BitKeeper. Sin embargo, conflictos entre las partes impulsó a la comunidad de desarrolladores Linux a desarrollar un software propio bajo las siguientes premisas:
+    - Velocidad
+    - Diseño sencillo
+    - Gran soporte para desarrollo no lineal (miles de ramas paralelas)
+    - Completamente distribuido
+    - Capaz de manejar grandes proyectos como el Kernel de Linux eficientemente (velocidad y tamaño de los datos)
+
+b. Github pertenece a Microsoft, quien adquirió la plataforma por 7500 millones de dolares en 2018, impulsando su estrategía nueva, mucho más abierta al mundo del software libre y a la integración con otras plataformas y servicios. Esta adquisición fue, sin duda, un acercamiento a la comunidad más vibrante en el desarrollo de software libre y abierto. Otro motivo, además, es Microsoft Azure. Microsoft quiere competir directamente con el lider indiscutible del segmento al día de hoy, Amazon con AWS, y ¿qué mejor manera de hacerlo que estar en contacto directo con los desarrolladores que trabajan en esos servicios, ver sus necesidades y ofrecerles herramientas que faciliten su integración con Azure?.
+
+c. Sí. Hay IDEs que permiten interactuar con Github y sus repositorios sin escribir un solo comando en la terminal. Visual Studio Code es uno de ellos. 
