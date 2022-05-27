@@ -1,0 +1,11 @@
+git init Crear un nuevo repositorio
+git config user.name Nombrar usuario
+git config user.email Agregar email de usuario
+git add Añadir archivo
+git status Verificar estado de archivos
+git log Ver historial de actividad
+git branch "nombre" Crea una nueva rama
+git checkout "nombre" Cambia a una rama existente
+git push origin "nombre de rama" Crea una rama remota con el mismo nombre
+git pull origin "nombre de la rama" Saca los archivos de una rama existente
+
