@@ -1,0 +1,29 @@
+Crear carpetas y archivos para subir a un repositorio remoto:
+
+Clonar un repositorio existente
+git clone https://github.com/robertotorfe/Mochila-Camada-2-0522.git
+
+Crear una rama
+git branch Nombre 
+
+Crear una carpeta
+Mkdir Git_y_Github_Apellido_Nombre
+
+Crear un archivo
+Touch archivo.txt
+
+Añadir carpeta al repositorio main
+git add Git_y_Github_Apellido_Nombre
+
+Hacer commit
+git commit -m "primer commit"
+
+Ver estado
+git status
+
+Ver ramas 
+git log 
+
+Guardar los cambios y subir a repositorio remoto
+git push origin apellido_nombre
+
