@@ -1,0 +1,6 @@
+git init	Inicia un repositorio local
+git clone [url repositorio]	clona un repositorio remoto en nuestro disco local
+git add [archivo con extension]	agrega al seguimiento de cambios al archivo
+git commit -m "[comentario]"	realiza el commit al repositorio de los cambios agregados a los archivos en seguimiento
+git push origin [nombre_rama]	realiza la subida de los archivos commiteados al repositorio
+git pull origin [nombre_rama]	realiza la descarga de todos los ultimos cambios en los archivos del repositorio en dicha rama
