@@ -1,0 +1,8 @@
+Hola profe soy Martin Camer
+
+
+1.Git es un proyecto de código abierto maduro y con un mantenimiento activo que desarrolló originalmente Linus Torvalds y fue pensado en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente. 
+
+2.El 4 de junio de 2018, Microsoft compró GitHub por la cantidad de 7500 millones de dólares.​ Al inicio, el cambio de propietario generó preocupaciones y la salida de algunos proyectos de este sitio;​ sin embargo, no fueron representativos. GitHub continúa siendo la plataforma más importante de colaboración para proyectos de código abierto.
+
+3.No, Porque si o si necesitas una terminal para ejecutar comandos, para inicializar proyectos, Esta la version Desktop de GitHub para subir proyectos, Pero esta pregunta no se como responderla..
