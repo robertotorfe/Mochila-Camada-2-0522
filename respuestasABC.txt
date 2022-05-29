@@ -1,0 +1,5 @@
+A- Git es un proyecto de código abierto maduro y con un mantenimiento activo que desarrolló originalmente Linus Torvalds, el famoso creador del kernel del sistema operativo Linux, en 2005.
+
+B- Microsoft anunció hoy un acuerdo para adquirir GitHub, la empresa que gestiona la plataforma de código abierto más grande del mundo, en la que participan "más de 28 millones de desarrolladores" de software.
+
+C- Existen muchas formas de usar Git. Por un lado tenemos las herramientas originales de línea de comandos, y por otro lado tenemos una gran variedad de interfaces de usuario con distintas capacidades
