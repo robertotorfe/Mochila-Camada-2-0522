@@ -1,0 +1,51 @@
+motherboard: Mother Socket 1151 Ga-h110m-h Gigabyte
+procesador: i3 7100
+memoria ram: 8gb ddr4 kingstone
+memoria secundaria: disco rigido 500gb
+
+motherboard: Mother Asus Prime A320m-k Am4
+procesador: ryzen 3 2200g
+memoria principal: ram 8gb ddr4 kingstone
+memoria secundaria: disco rigido 500gb
+
+motherboard: Asus Prime B460m-a S1200 Intel B460
+Procesador: Intel Celeron G5905
+memoria principal: ram 4gb ddr4 kingstone
+memoria secundaria: disco rigido 500gb
+
+motherboard: gigabyte H410M H V3
+procesador: intel i5 10400
+memoria principal: 8gb ram ddr4 kingstone
+memoria secundaria: ssd kingstone 240gb
+gpu: geforce gt 1030 2gbd4 lp oc
+
+motherboard: a320m asrock
+procesador: ryzen 5 3600
+memoria principal: ram 8gb ddr4 kignstone
+memoria secundaria: ssd kingstone 240gb
+gpu: Amd Rx550 2gb
+
+motherboard: gigabyte H510M
+procesador: Intel I5 11400
+memoria principal: 16 gb ram ddr4
+memoria secundaria: ssd 500gb
+gpu: Gtx 1660 6gb
+
+motherboard: gigabyte Z590
+procesador: intel i7 10700
+memoria principal: 32gb ram ddr4
+memoria secundaria: ssd 1tb
+gpu: Nvidia Geforce rtx 3060ti 8gb
+
+motherboard: Asus Rog Stix B450-f am4
+procesador:Amd Ryzen 7 3800xt
+memoria principal: 32gb ram ddr4
+memoria secundaria: ssd 1tb
+gpu: Radeon RX 6800 16gb
+
+motherboard: MOTHER ASUS ROG STRIX Z590-E
+procesador: xeon 8362
+memoria principal: ram 64gb ddr4 
+memoria secundaria: ssd 1tb
+gpu: NVIDIA GeForce RTX 3090 Ti
+
