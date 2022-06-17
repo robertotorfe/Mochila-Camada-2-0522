@@ -1,0 +1,7 @@
+1. Por que la maquina donde se compila y la maquina donde se ejecuta no tienen arquitectura de CPU
+similar ni sitema operativo similar. 
+2. Maquina Virtual de proceso y de sistema
+3.El hipervisor garanitiza que los sistemas huesped no puedan acceder a los archivos del resto 
+de sistemas. Esto es especiamente importante cuando se realizan pruebas, ya que asegura que los
+ programas defectuosos no pueden dañar otros entornos de prueba. 
+4. no, porque para eso existe el hipervisor. 
