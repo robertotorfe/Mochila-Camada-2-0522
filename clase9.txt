@@ -6,7 +6,7 @@ memoria secundaria: disco rigido 500gb
 motherboard: Mother Asus Prime A320m-k Am4
 procesador: ryzen 3 2200g
 memoria principal: ram 8gb ddr4 kingstone
-memoria secundaria: disco rigido 500gb
+memoria secundaria: disco rigido 500gb 
 
 motherboard: Asus Prime B460m-a S1200 Intel B460
 Procesador: Intel Celeron G5905
