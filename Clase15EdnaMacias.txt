@@ -4,4 +4,4 @@ similar ni sitema operativo similar.
 3.El hipervisor garanitiza que los sistemas huesped no puedan acceder a los archivos del resto 
 de sistemas. Esto es especiamente importante cuando se realizan pruebas, ya que asegura que los
  programas defectuosos no pueden dañar otros entornos de prueba. 
-4. no, porque para eso existe el hipervisor. 
+4. no, porque para eso existe el hipervisor. :) 
