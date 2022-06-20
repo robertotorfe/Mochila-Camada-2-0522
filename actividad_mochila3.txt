@@ -1,0 +1,29 @@
+Taller de la Mochila 3
+
+Introduccion a la informatica
+Camada 2 
+integrantes:
+Carlos Andres Carandino. 
+Carlos Daniel Sanchez.
+
+Preguntas
+
+* ¿Por que un lenguaje de programacion solo puede utilizarse en algunos sistemas operativos y en otros no?
+
+porque un lenguaje de programacion compila a lenguaje ensamblador el cual es ejecutado por el sistema operativo.
+
+este lenguaje ensamblador depende de 2 cosas
+
+A) de la arquitectura del procesador
+B) la interpretacion que le de el sistema operativo
+
+por tanto si cambia la arquitectura del procesador el lenguaje ensamblador es totalmente diferente y no va a correr.
+
+
+** ¿que tipo de maquina virtual es virtual box?
+es del tipo maquina virtual de sistema, que ofrece una separacion completa del sistema operativo y las aplicaciones de la computadora fisica.
+
+*** ¿si tengo una maquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por que?
+
+no porque cada una es una instalacion diferente y no tendria por que afectar. podria afectar si el software con el que se esta haciendo la virtualizacion se daña, esto si afectaria a todas las maquinas virtuales instaladas.
+
