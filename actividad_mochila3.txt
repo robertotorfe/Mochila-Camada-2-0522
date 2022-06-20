@@ -23,7 +23,11 @@ por tanto si cambia la arquitectura del procesador el lenguaje ensamblador es to
 ** ¿que tipo de maquina virtual es virtual box?
 es del tipo maquina virtual de sistema, que ofrece una separacion completa del sistema operativo y las aplicaciones de la computadora fisica.
 
-*** ¿si tengo una maquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por que?
+*** ¿Que funcion Cumple el Hypervisor en la virtualizacion?
+
+es el monitor de la maquina virtual, este software crea y ejecuta maquinas virtuales y ademas aisla su sistema operativo y recursos  de las maquinas virtuales, permite crearlas y gestionarlas.
+
+**** ¿si tengo una maquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por que?
 
 no porque cada una es una instalacion diferente y no tendria por que afectar. podria afectar si el software con el que se esta haciendo la virtualizacion se daña, esto si afectaria a todas las maquinas virtuales instaladas.
 
