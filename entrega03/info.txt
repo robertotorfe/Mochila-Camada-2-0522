@@ -1,0 +1,1 @@
+Con carlos daniel sanchez a la respuesta de las preguntas de la actividad 3 lo realizamos en la maquina virtual del servidor de ubuntu, sin entorno grafico.
