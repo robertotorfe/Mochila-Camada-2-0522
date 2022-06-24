@@ -1,0 +1,4 @@
+Dirección IP Pública:                       179.62.122.7  Clase B
+Dirección IP Privada y su Máscara de subred:255.255.255.0
+Dirección MAC:                              192:168.1.96  Clase C
+Marca de placa de red:                      GIGA-BYTE TECHNOLOGY CO.,LTD.
