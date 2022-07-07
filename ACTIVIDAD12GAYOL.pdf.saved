@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="29" xmlns:dc="http://purl.org/dc/elements/1.1/" styles="unlocked" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.9.1" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:es-ES; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<!-- ======================================================================== -->
+<!-- This file is an AbiWord document.                                        -->
+<!-- AbiWord is a free, Open Source word processor.                           -->
+<!-- More information about AbiWord is available at http://www.abisource.com/ -->
+<!-- You should not edit this file by hand.                                   -->
+<!-- ======================================================================== -->
+
+<metadata>
+<m key="abiword.date_last_changed">Thu Jul  7 02:25:07 2022
+</m>
+<m key="abiword.generator">AbiWord</m>
+<m key="dc.creator">usuario-intro</m>
+<m key="dc.date">Thu Jul  7 02:25:07 2022
+</m>
+<m key="dc.format">application/x-abiword</m>
+</metadata>
+<rdf>
+</rdf>
+<history version="4" edit-time="761" last-saved="1657171507" uid="56d99f54-fda4-11ec-96b9-a9abd0801088">
+<version id="3" started="1657164623" uid="8136043a-fda5-11ec-96b9-a9abd0801088" auto="0" top-xid="24"/>
+<version id="4" started="1657171507" uid="2a151a28-fdb5-11ec-9c73-dc18bc2c3606" auto="0" top-xid="29"/>
+</history>
+<styles>
+<s type="P" name="Normal" followedby="Current Settings" props="font-family:Times New Roman; margin-top:0pt; color:000000; margin-left:0pt; widows:2; font-style:normal; text-indent:0in; text-position:normal; margin-right:0pt; text-decoration:none; bgcolor:transparent; line-height:1.0; font-size:12pt; margin-bottom:0pt; font-variant:normal; font-weight:normal; text-align:left; font-stretch:normal"/>
+</styles>
+<pagesize pagetype="A4" orientation="portrait" width="210.000000" height="297.000000" units="mm" page-scale="1.000000"/>
+<section xid="1" props="page-margin-footer:0.5000in; page-margin-header:0.5000in; page-margin-right:1.0000in; page-margin-left:1.0000in; page-margin-top:1.0000in; page-margin-bottom:1.0000in">
+<p style="Normal" xid="2" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold; text-decoration:underline; font-size:20pt">Actividad clase 12 con Ubuntu</c><c props="font-weight:bold; text-decoration:underline; font-size:20pt"></c></p>
+<p style="Normal" xid="3" props="text-align:left; dom-dir:ltr"><c props="text-decoration:underline; font-weight:bold; font-size:18pt"></c><c></c></p>
+<p style="Normal" xid="4" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold; font-size:16pt">1)¿Qué es un usuario root en  Linux?</c><c props="font-weight:bold; font-size:16pt"></c></p>
+<p style="Normal" xid="9" props="text-align:left; dom-dir:ltr">      En sistemas operativos del tipo Unix, el superusuario o root es el nombre convencional de la cuenta de usuario que posee todos los derechos en todos los modos (monousuario o multiusuario). Normalmente es la cuenta de administrador.<c></c></p>
+<p style="Normal" xid="12" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold; font-size:16pt"></c><c></c></p>
+<p style="Normal" xid="5" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold; font-size:16pt">2)¿Por qué ubuntu no me deja establecer la contraseña durante la instalación? </c><c props="font-weight:bold; font-size:16pt"></c></p>
+<p style="Normal" xid="10" props="text-align:left; dom-dir:ltr">     No es necesario añadir una contraseña para la cuenta de root. Tenemos algo llamado el mecanismo <c></c><c props="font-weight:bold">sudo</c> para manejar eso. En su lugar, se añaden usuarios a la cuenta admin cuenta. Todos esos usuarios pueden entonces ejecutar comandos o programas como root ejecutando <c props="font-weight:bold">sudo comand </c> para los comandos de terminal</p>
+<p style="Normal" xid="13" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold; font-size:16pt"></c><c></c></p>
+<p style="Normal" xid="15" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold; font-size:16pt">3.1)</c><c props="font-weight:bold; font-size:16pt"></c><c props="font-family:Times New Roman; font-size:16pt; color:000000; text-decoration:none; text-position:normal; font-weight:bold; font-style:normal; lang:es-ES">¿Cuáles son los procesos típicos de Linux?</c></p>
+<p style="Normal" xid="11" props="text-align:left; dom-dir:ltr">    Un proceso en linux es una serie de instrucciones que vienen de un programa que está en ejecución.<c></c></p>
+<p style="Normal" xid="16" props="text-align:left; dom-dir:ltr">    Existen diferentes elementos que incorpora un proceso como la prioridad de ejecución del proceso que le indica a Linux cuanto CPU utilizar, y el tiempo máximo de ejecución del proceso.<c></c></p>
+<p style="Normal" xid="14" props="text-align:left; dom-dir:ltr"><c props="font-family:Times New Roman; text-decoration:underline; color:000000; font-size:16pt; text-position:normal; font-weight:bold; font-style:normal; lang:es-ES">Algunos ejemplos:</c><c props="font-family:Times New Roman; text-decoration:underline; color:000000; font-size:16pt; text-position:normal; font-weight:bold; font-style:normal; lang:es-ES"></c></p>
+<p style="Normal" xid="17" props="text-align:left; dom-dir:ltr">_Administrar procesos usando PS.<c></c></p>
+<p style="Normal" xid="18" props="text-align:left; dom-dir:ltr">_Usar el comando PGREP.<c></c></p>
+<p style="Normal" xid="19" props="text-align:left; dom-dir:ltr">_Usar el comando top y htop.<c></c></p>
+<p style="Normal" xid="24" props="text-align:left; dom-dir:ltr">_Gestionar procesos con KILL.<c></c></p>
+<p style="Normal" xid="21" props="text-align:left; dom-dir:ltr">_Usar el comando PKILL.<c></c></p>
+<p style="Normal" xid="22" props="text-align:left; dom-dir:ltr">_Usar los comandos NICE y RENICE.<c></c></p>
+<p style="Normal" xid="23" props="text-align:left; dom-dir:ltr"><c></c><c></c></p>
+<p style="Normal" xid="7" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold; font-size:16pt">3.2)</c><c props="font-weight:bold; font-size:16pt"></c><c props="font-family:Times New Roman; font-size:16pt; color:000000; text-decoration:none; text-position:normal; font-weight:bold; font-style:normal; lang:es-ES">¿Cómo identificar</c><c props="font-weight:bold; font-size:16pt"> esos procesos?</c></p>
+<p style="Normal" xid="8" props="text-align:left; dom-dir:ltr">    Para ver los procesos en sistemas Linux, contamos con el comando <c></c><c props="font-weight:bold; font-size:14pt">‘ ps ’</c>, </p>
+<p style="Normal" xid="29" props="text-align:left; dom-dir:ltr"><c></c>que listará (de múltiples formas según las opciones que le pasemos) todos los procesos que se encuentran corriendo en nuestro equipo.</p>
+<p style="Normal" xid="25" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold; font-size:14pt">   Top</c><c props="font-weight:bold; font-size:14pt"></c> es otro gestor de procesos integrado en la mayoría de sistemas Linux. Mientras que</p>
+<p style="Normal" xid="27" props="text-align:left; dom-dir:ltr"><c></c><c props="font-weight:bold; font-size:16pt">ps</c><c props="font-weight:bold; font-size:14pt"> </c><c props="font-weight:bold; font-size:12pt">nos muestra un listado de procesos estático</c>, es decir, nos informa de los procesos, nombres, usuarios o recursos que se están usando en el momento de la petición;</p>
+<p style="Normal" xid="28" props="text-align:left; dom-dir:ltr"><c props="font-weight:bold"></c><c props="font-weight:bold; font-size:16pt">top</c><c props="font-weight:bold; font-size:12pt"> nos da un informe en tiempo real de los mismos.</c></p>
+</section>
+</abiword>
