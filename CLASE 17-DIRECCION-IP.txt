@@ -1,0 +1,32 @@
+﻿CLASE  17- MIS DIRECCIONES IP
+Gayol, Julián
+Pomareda, Daniel
+
+1)
+Averiguar las Direcciones IP Y MAC
+
+
+Daniel:
+Dirección IP Publica =  38.25.16.24
+Dirección IP Privada =  192.168.18.5 - Preferido
+Máscara de subred = 255.255.255.0
+Dirección MAC = EC-2E-98-D4-34-59
+
+ Julián:
+Dirección IP Privada. . . . . . . . . . . . . . : 192.168.56.1(Preferido)
+Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+Dirección física o MAC. . . . . . . . . . : D4-1B-81-A7-8F-23
+Tu dirección IP es........................: 181.191.65.242
+
+
+2)
+¿ La IP pública y privada de qué clase son ?
+
+Daniel = Pública es Clase A y la Privada es Clase C 
+Julian = Pública es clase B y Privada Clase C
+
+¿ Qué información puedo obtener de la dirección MAC? ,
+ vamos a acceder a  https://macvendors.com/ y verificar que marca de placa de red tenemos.
+
+Daniel = AzureWave Technology Inc.
+Julian = CHONGQING FUGUI ELECTRONICS CO.,LTD.
