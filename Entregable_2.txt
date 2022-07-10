@@ -1,0 +1,21 @@
+1) Que es un usuario root en Linux?
+R/ En Linux el usuario root es aquel que tiene todos los permisos en el sistema operativo, es decir, es el súper administrador. Puede acceder a cualquier archivo y también ejecutar cualquier comando, incluidos los que nunca deberías ejecutar.
+
+2) Por qué ubuntu no me deja establecer la contraseña durante la instalación?
+R/ Después de la instalación exitosa de ubuntu, todos son permisos de usuario ordinarios y no tienen los permisos de root más altos. Si necesita usar permisos de root, generalmente agrega sudo delante del comando.
+
+3) Cuáles son los procesos típicos de Linux?
+R/ Un proceso en linux es una serie de instrucciones que vienen de un programa que esta en ejecución, existen diferentes elementos que incorpora un proceso como la prioridad de ejecución del proceso que le indica a Linux cuanto CPU utilizar y el tiempo máximo de ejecución del proceso.
+
+4) Cómo identificarlos?
+R/ Normalmente, cuando deseamos ver los procesos ene ejecución en Linux usamos el comando “top” que genera un listado completo de los procesos con detalles como:
+
+PID del proceso.
+Usuario que tiene el proceso.
+Uso de CPU, memoria y demás
+
+5) Investigar y establecer una contraseña para el usuario root.
+R/ abrimos la terminal y ejecutamos el comando ( sudo passwd root ) 
+   Pedira escribir la contraseña actual de tu cuenta con acceso sudo.
+   Después pedirá crear la clave UNIX, la cual sera la clave de root. 
+
