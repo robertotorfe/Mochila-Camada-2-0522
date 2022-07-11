@@ -9,4 +9,4 @@ GNU/LINUX, MAC OS X, OS/2 WARP, GENODE, WINDOWS Y SOLARIS/OPENSOLARIS
 la funcion que cumple de que permite que un ordenador host preste soporte a var>
 
 Si tengo mas de una maquina virtual instalada, y una se rompe, ¿esto afecta a l>
-no, esto no afecta a las demas, por que cada una esta separa y si una falla no 
+no, esto no afecta a las demas, por que cada una esta separa y si una falla no
