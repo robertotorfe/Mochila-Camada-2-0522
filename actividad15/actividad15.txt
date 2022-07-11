@@ -1,12 +1,13 @@
-Actividad 15
-¿porque un lenguaje de programacion solo puede utilizarse en algunos sistemas o>
- por que un lenguaje de programacion compila a lenguaje ensamblador el cual es >
+Actividad 15  
+¿porque un lenguaje de programacion solo puede utilizarse en algunos sistemas  operativos  y en otros no?   
+ por que un lenguaje de programacion compila a lenguaje ensamblador el cual es ejecutado por el sistema operativo, este lenguaje ensamblador depende de dos cosas, de la arquitectura del procesador y la interpretacion que le de el sistema operativo.
 
 ¿que tipo de maquina virtual soporta virtualBox?
 GNU/LINUX, MAC OS X, OS/2 WARP, GENODE, WINDOWS Y SOLARIS/OPENSOLARIS
 
 ¿que funcion cumple el hypervisor en la virtualizacion?
-la funcion que cumple de que permite que un ordenador host preste soporte a var>
+la funcion que cumple de que permite que un ordenador host preste soporte a varias maquinas virtuales invitadas mediante el uso compartido virtual de sus recursos, como la memoria y el procesamiento.
+Si tengo mas de una maquina virtual instalada, y una se rompe, ¿esto afecta a las demas?¿por que?
+no, esto no afecta a las demas, por que cada una esta separa y si una falla no afectara al funcionamiento del resto.
 
-Si tengo mas de una maquina virtual instalada, y una se rompe, ¿esto afecta a l>
-no, esto no afecta a las demas, por que cada una esta separa y si una falla no 
+
