@@ -1,0 +1,59 @@
+--> Gama baja - Intel:
+motherboard: Mother socket 1151 ga-h110m-h Gigabyte
+Procesador: i3 7100
+memoria RAM: 8gb ddr4 kingstone
+memoria secundaria: disco rigido 500gb
+
+--> Gama baja - AMD:
+motherboard: mother asus prime A320m-kam4
+Procesador: ryzen 3 2200g
+memoria Principal: ram 8gb ddr4 Kingstone
+memoria secundaria: disco rigido 500gb
+
+--> Gama baja:
+motherboard: asus Prime B460m-a S1200 Intel B460
+Procesador: Intel Celeron G%905
+memoria Principal: ram 4gb ddr4 Kingstone
+memoria secundaria: disco rigido 500gb
+
+--> Gama media - Intel:
+motherboard: Gigabyte H410M H V3
+Procesador: intel i5 10400
+memoria Principal: ram 8gb ddr4 Kingstone
+memoria secundaria: ssd kingstone 240gb
+gpu: geforce gt 1030 2gbd4 1p oc
+
+--> Gama media - AMD:
+motherboard: a320m asrock
+Procesador: ryzen 5 3600
+memoria Principal: ram 8gb ddr4 Kingstone
+memoria secundaria: ssd kingstone 240gb
+gpu: amd Rx550 2gb
+
+--> Gama media:
+motherboard: gigabyte H510M
+Procesador: Intel I5 11400
+memoria Principal: 16 gb ram ddr4
+memoria secundaria: ssd 500gb
+gpu: Gtx 1660 6gb
+
+--> Gama alta - Intel:
+motherboard: gigabyte Z590
+Procesador: intel i7 10700
+memoria Principal: 32gb ran ddr4
+memoria secundaria: ssd 1tb
+gpu:
+
+--> Gama alta - AMD:
+motherboard: Asus Rog Stix B450-f am4
+Procesador: AMD Ryzen 7 3800xt
+memoria Principal: 32gb ran ddr4
+memoria secundaria: ssd 1tb
+gpu: Radeon RX 6800 16gb
+
+--> Gama alta:
+motherboard: mother asus ROG STRIX z590-E
+Procesador: xeon 8362
+memoria Principal: ram 64gb ddr4
+memoria secundaria: ssd 1tb
+gpu: NVIDIA GeForce RTX 3090 Ti
